@@ -9,4 +9,4 @@ Il se divise en trois sections principales :
 
 ## Lien
 
-- [**Code**](https://github.com/marcberret/project_credit_risk_classification/blob/main/main.ipynb)
+- [**Code**](https://github.com/marcberret/project_pyspark/blob/main/main.ipynb)
